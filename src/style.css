@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;    
+    
+}
+
+.list{
+    background-color: wheat;
+    flex-basis: 33%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+
+}
+
+.sub-list{
+    background-color:rgb(250, 215, 150);
+    width: 90%;
+    
+    margin: auto auto;
+
+
+}
